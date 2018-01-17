@@ -1,0 +1,4 @@
+#Wed Jan 03 08:57:32 KST 2018
+base.0=D\:\\[PUZZLE]CODE\\BTChat_Original\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

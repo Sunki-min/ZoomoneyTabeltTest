@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_29cc9bec000c190ec6edba9241f332d1b29b9769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_c5eec0fa4684829206bc7de248c1df722ceefa9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_5c7b45bf23d6d2fc0af53c7a20157507c7c55908.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_7b06e5ac9fc1618f4784f2f409ff69d2fe420027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_1e3e7977be96763cc1b6d848a91ac80327afb205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_a5f4ec57371fd7421c7fd7685076d583deb02fd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\exploded-aar\com.tsengvn\Typekit\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bbf90181fea46399a9e3d0f4326883a505f71952">
+        <dex dex="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\pre-dexed\debug\com.tsengvn-Typekit-1.0.0_9f948cd0e0b0afdca0510d6253e830f863fcc9b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\pre-dexed\debug\gson-2.6.1_48b8b7423fd9c459df38443f13fa9b301726ea2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_2f85958e3577c0887206665b958d529f2917b10d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\pre-dexed\debug\okio-1.6.0_814967621bceadb54e9f08c74de187687a6209ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_773970345b468fc61a55d722539b7911d6bc8da3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\DELL\Desktop\puzzlesco\2016\BTChat-master2\app\build\intermediates\pre-dexed\debug\retrofit-2.0.2_53fbd806c4b2d65c6b95761b9ea51ad86a420dc4.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,2326 @@
+[
+    {
+        "outputFile": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 57,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 55,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 41,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 41,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 45,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endColumn": 45,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 39,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 637,
+                        "endColumn": 39,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endColumn": 38,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 723,
+                        "endColumn": 38,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 40,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 40,
+                        "endOffset": 632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endColumn": 38,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 38,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 416,
+                    "endColumn": 40,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 555,
+                        "endColumn": 40,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 39,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 39,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 41,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 41,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 539,
+                    "endColumn": 40,
+                    "endOffset": 575
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 841,
+                        "endColumn": 40,
+                        "endOffset": 877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 580,
+                    "endColumn": 42,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 470,
+                        "endColumn": 42,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 41,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 882,
+                        "endColumn": 41,
+                        "endOffset": 919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 43,
+                    "endOffset": 704
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 426,
+                        "endColumn": 43,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 709,
+                    "endColumn": 49,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 49,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endColumn": 58,
+                    "endOffset": 813
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 58,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 818,
+                    "endColumn": 47,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 47,
+                        "endOffset": 1283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 866,
+                    "endColumn": 41,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1198,
+                        "endColumn": 41,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 908,
+                    "endColumn": 41,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1330,
+                        "endColumn": 41,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 950,
+                    "endColumn": 41,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1288,
+                        "endColumn": 41,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 42,
+                    "endOffset": 1030
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1155,
+                        "endColumn": 42,
+                        "endOffset": 1193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1035,
+                    "endColumn": 41,
+                    "endOffset": 1072
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 41,
+                        "endOffset": 1409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1077,
+                    "endColumn": 43,
+                    "endOffset": 1116
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1111,
+                        "endColumn": 43,
+                        "endOffset": 1150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1121,
+                    "endColumn": 42,
+                    "endOffset": 1159
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1414,
+                        "endColumn": 42,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1164,
+                    "endColumn": 44,
+                    "endOffset": 1204
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1066,
+                        "endColumn": 44,
+                        "endOffset": 1106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1209,
+                    "endColumn": 43,
+                    "endOffset": 1248
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1457,
+                        "endColumn": 43,
+                        "endOffset": 1496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1253,
+                    "endColumn": 45,
+                    "endOffset": 1294
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1020,
+                        "endColumn": 45,
+                        "endOffset": 1061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1299,
+                    "endColumn": 46,
+                    "endOffset": 1341
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 973,
+                        "endColumn": 46,
+                        "endOffset": 1015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1346,
+                    "endColumn": 47,
+                    "endOffset": 1389
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 925,
+                        "endColumn": 47,
+                        "endOffset": 968
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 57,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 55,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 41,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 41,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 45,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endColumn": 45,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 39,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 637,
+                        "endColumn": 39,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endColumn": 38,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 723,
+                        "endColumn": 38,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 40,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 40,
+                        "endOffset": 632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endColumn": 38,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 38,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 416,
+                    "endColumn": 40,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 555,
+                        "endColumn": 40,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 39,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 39,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 41,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 41,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 539,
+                    "endColumn": 40,
+                    "endOffset": 575
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 841,
+                        "endColumn": 40,
+                        "endOffset": 877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 580,
+                    "endColumn": 42,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 470,
+                        "endColumn": 42,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 41,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 882,
+                        "endColumn": 41,
+                        "endOffset": 919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 43,
+                    "endOffset": 704
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 426,
+                        "endColumn": 43,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 709,
+                    "endColumn": 49,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 49,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endColumn": 58,
+                    "endOffset": 813
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 58,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 818,
+                    "endColumn": 47,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 47,
+                        "endOffset": 1283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 866,
+                    "endColumn": 41,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1198,
+                        "endColumn": 41,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 908,
+                    "endColumn": 41,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1330,
+                        "endColumn": 41,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 950,
+                    "endColumn": 41,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1288,
+                        "endColumn": 41,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 42,
+                    "endOffset": 1030
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1155,
+                        "endColumn": 42,
+                        "endOffset": 1193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1035,
+                    "endColumn": 41,
+                    "endOffset": 1072
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 41,
+                        "endOffset": 1409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1077,
+                    "endColumn": 43,
+                    "endOffset": 1116
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1111,
+                        "endColumn": 43,
+                        "endOffset": 1150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1121,
+                    "endColumn": 42,
+                    "endOffset": 1159
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1414,
+                        "endColumn": 42,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1164,
+                    "endColumn": 44,
+                    "endOffset": 1204
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1066,
+                        "endColumn": 44,
+                        "endOffset": 1106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1209,
+                    "endColumn": 43,
+                    "endOffset": 1248
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1457,
+                        "endColumn": 43,
+                        "endOffset": 1496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1253,
+                    "endColumn": 45,
+                    "endOffset": 1294
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1020,
+                        "endColumn": 45,
+                        "endOffset": 1061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1299,
+                    "endColumn": 46,
+                    "endOffset": 1341
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 973,
+                        "endColumn": 46,
+                        "endOffset": 1015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1346,
+                    "endColumn": 47,
+                    "endOffset": 1389
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 925,
+                        "endColumn": 47,
+                        "endOffset": 968
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Download\\project\\BTChat-master2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Download\\project\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 57,
+                        "endOffset": 348
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 57,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 55,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 41,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 41,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 45,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endColumn": 45,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 39,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 637,
+                        "endColumn": 39,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endColumn": 38,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 723,
+                        "endColumn": 38,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 40,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 40,
+                        "endOffset": 632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endColumn": 38,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 38,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 416,
+                    "endColumn": 40,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 555,
+                        "endColumn": 40,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 39,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 39,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 41,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 41,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 539,
+                    "endColumn": 40,
+                    "endOffset": 575
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 841,
+                        "endColumn": 40,
+                        "endOffset": 877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 580,
+                    "endColumn": 42,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 470,
+                        "endColumn": 42,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 41,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 882,
+                        "endColumn": 41,
+                        "endOffset": 919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 43,
+                    "endOffset": 704
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 426,
+                        "endColumn": 43,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 709,
+                    "endColumn": 49,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 49,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endColumn": 58,
+                    "endOffset": 813
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 58,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 818,
+                    "endColumn": 47,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 47,
+                        "endOffset": 1283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 866,
+                    "endColumn": 41,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1198,
+                        "endColumn": 41,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 908,
+                    "endColumn": 41,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1330,
+                        "endColumn": 41,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 950,
+                    "endColumn": 41,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1288,
+                        "endColumn": 41,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 42,
+                    "endOffset": 1030
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1155,
+                        "endColumn": 42,
+                        "endOffset": 1193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1035,
+                    "endColumn": 41,
+                    "endOffset": 1072
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 41,
+                        "endOffset": 1409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1077,
+                    "endColumn": 43,
+                    "endOffset": 1116
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1111,
+                        "endColumn": 43,
+                        "endOffset": 1150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1121,
+                    "endColumn": 42,
+                    "endOffset": 1159
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1414,
+                        "endColumn": 42,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1164,
+                    "endColumn": 44,
+                    "endOffset": 1204
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1066,
+                        "endColumn": 44,
+                        "endOffset": 1106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1209,
+                    "endColumn": 43,
+                    "endOffset": 1248
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1457,
+                        "endColumn": 43,
+                        "endOffset": 1496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1253,
+                    "endColumn": 45,
+                    "endOffset": 1294
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1020,
+                        "endColumn": 45,
+                        "endOffset": 1061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1299,
+                    "endColumn": 46,
+                    "endOffset": 1341
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 973,
+                        "endColumn": 46,
+                        "endOffset": 1015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1346,
+                    "endColumn": 47,
+                    "endOffset": 1389
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\puzzlesco\\2016\\BTChat-master2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 925,
+                        "endColumn": 47,
+                        "endOffset": 968
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 57,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 55,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 41,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 41,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 45,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endColumn": 45,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 39,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 637,
+                        "endColumn": 39,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endColumn": 38,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 723,
+                        "endColumn": 38,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 40,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 40,
+                        "endOffset": 632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endColumn": 38,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 38,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 416,
+                    "endColumn": 40,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 555,
+                        "endColumn": 40,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 39,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 39,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 41,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 41,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 539,
+                    "endColumn": 40,
+                    "endOffset": 575
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 841,
+                        "endColumn": 40,
+                        "endOffset": 877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 580,
+                    "endColumn": 42,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 470,
+                        "endColumn": 42,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 41,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 882,
+                        "endColumn": 41,
+                        "endOffset": 919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 43,
+                    "endOffset": 704
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 426,
+                        "endColumn": 43,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 709,
+                    "endColumn": 49,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 49,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endColumn": 58,
+                    "endOffset": 813
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 58,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 818,
+                    "endColumn": 47,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 47,
+                        "endOffset": 1283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 866,
+                    "endColumn": 41,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1198,
+                        "endColumn": 41,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 908,
+                    "endColumn": 41,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1330,
+                        "endColumn": 41,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 950,
+                    "endColumn": 41,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1288,
+                        "endColumn": 41,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 42,
+                    "endOffset": 1030
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1155,
+                        "endColumn": 42,
+                        "endOffset": 1193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1035,
+                    "endColumn": 41,
+                    "endOffset": 1072
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 41,
+                        "endOffset": 1409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1077,
+                    "endColumn": 43,
+                    "endOffset": 1116
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1111,
+                        "endColumn": 43,
+                        "endOffset": 1150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1121,
+                    "endColumn": 42,
+                    "endOffset": 1159
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1414,
+                        "endColumn": 42,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1164,
+                    "endColumn": 44,
+                    "endOffset": 1204
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1066,
+                        "endColumn": 44,
+                        "endOffset": 1106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1209,
+                    "endColumn": 43,
+                    "endOffset": 1248
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1457,
+                        "endColumn": 43,
+                        "endOffset": 1496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1253,
+                    "endColumn": 45,
+                    "endOffset": 1294
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1020,
+                        "endColumn": 45,
+                        "endOffset": 1061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1299,
+                    "endColumn": 46,
+                    "endOffset": 1341
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 973,
+                        "endColumn": 46,
+                        "endOffset": 1015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1346,
+                    "endColumn": 47,
+                    "endOffset": 1389
+                },
+                "from": {
+                    "file": "D:\\[PUZZLE]CODE\\BTChat_Original\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 925,
+                        "endColumn": 47,
+                        "endOffset": 968
+                    }
+                }
+            }
+        ]
+    }
+]

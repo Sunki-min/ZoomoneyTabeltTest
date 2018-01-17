@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Jan 03 13:35:28 KST 2018
+2.base=D\:\\[PUZZLE]CODE\\BTChat_Original\\app\\build\\intermediates\\assets\\debug
+5.set=ASSET
+0.path=fonts/Dosis-Book.ttf
+2.baseType=DIRECTORY
+3.base=D\:\\[PUZZLE]CODE\\BTChat_Original\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.path=fonts/Dosis-ExtraBold.ttf
+4.base=D\:\\[PUZZLE]CODE\\BTChat_Original\\app\\build\\intermediates\\assets\\debug
+count=6
+5.baseType=DIRECTORY
+2.path=fonts/Dosis-Light.ttf
+5.base=D\:\\[PUZZLE]CODE\\BTChat_Original\\app\\build\\intermediates\\assets\\debug
+4.set=ASSET
+3.path=fonts/Dosis-Medium.ttf
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=fonts/Dosis-Bold.ttf
+1.baseType=DIRECTORY
+5.path=fonts/Dosis-ExtraLight.ttf
+0.base=D\:\\[PUZZLE]CODE\\BTChat_Original\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=D\:\\[PUZZLE]CODE\\BTChat_Original\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET
