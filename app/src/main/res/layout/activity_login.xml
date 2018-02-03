@@ -1,139 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.hardcopy.btchat.LoginActivity"
-    android:background="@drawable/bg_1">
+    android:background="@drawable/bg_tablet_2"
+    android:orientation="horizontal"
+    tools:context="com.hardcopy.btchat.LoginActivity">
 
-
-
-    <!-- 왼쪽 이미지 뷰 시작 -->
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:layout_weight="1"
-        >
-
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:src="@drawable/puzzles"
-            />
-    </LinearLayout>
-    <!-- 왼쪽 이미지 뷰 End -->
 
     <!-- 오른쪽 이미지 뷰 시작 -->
 
     <LinearLayout
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        >
+        android:layout_height="match_parent"
+        android:layout_marginLeft="600dp"
+        android:layout_marginTop="111dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
 
         <!-- 전화번호 입력 시작-->
         <LinearLayout
-            android:layout_width="560dp"
+            android:layout_width="424sp"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_marginTop="100dp"
-            android:gravity="center"
-            >
+            android:layout_gravity="center"
+            android:orientation="horizontal">
 
             <TextView
                 android:id="@+id/tv_010"
-                android:layout_width="wrap_content"
+                android:layout_width="100sp"
                 android:layout_height="wrap_content"
+                android:layout_marginRight="4dp"
                 android:text="010 -"
-                android:textSize="60sp"
+                android:textColor="#fefefe"
+                android:textSize="40sp" />
 
-                android:textColor="@color/grayf"
-                />
-
-            <!--<TextView-->
-                <!--android:layout_width="wrap_content"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:text="- "-->
-                <!--android:textSize="60sp"-->
-                <!--android:textColor="@color/grayf"-->
-                <!--/>-->
 
             <EditText
                 android:id="@+id/ed_number_login"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:maxLength="10"
-                android:digits="0123456789"
-                android:textSize="60sp"
                 android:background="@null"
-                android:textColor="@color/grayf"
-                android:layout_marginLeft="2dp"
-                />
-
-            <!--android:nextFocusRight="@id/ed_number_login_two"-->
-
-            <!--<TextView-->
-                <!--android:layout_width="wrap_content"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:text="- "-->
-                <!--android:textSize="60dp"-->
-                <!--/>-->
-
-            <!--<EditText-->
-                <!--android:id="@+id/ed_number_login_two"-->
-                <!--android:layout_width="120dp"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:maxLength="4"-->
-                <!--android:digits="0123456789"-->
-                <!--android:textSize="50dp"-->
-                <!--android:background="@null"-->
-                <!--/>-->
+                android:digits="0123456789"
+                android:maxLength="9"
+                android:textColor="#fefefe"
+                android:textSize="40sp" />
 
         </LinearLayout>
+
+
+        <ImageView
+            android:layout_width="308.5dp"
+            android:layout_height="1dp"
+            android:layout_marginTop="12dp"
+            android:src="@drawable/line" />
+
+
         <!-- 전화번호 입력 끝-->
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:orientation="vertical"
-            android:layout_marginTop="90dp"
             android:layout_gravity="center"
-            >
+            android:layout_marginTop="33dp"
+            android:orientation="vertical">
 
             <!-- 전화번호 첫번째 줄 시작-->
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal"
-                >
+                android:layout_gravity="center"
+                android:orientation="horizontal">
 
-                <Button
+                <ImageButton
                     android:id="@+id/btn_num1_login"
-                    android:layout_width="128dp"
-                    android:layout_height="80dp"
-                    android:layout_below="@+id/ed_number_login"
+                    android:layout_width="91.5dp"
+                    android:layout_height="91.5dp"
+                    android:layout_marginRight="17.5dp"
+                    android:adjustViewBounds="true"
+                    android:background="#00000000"
                     android:onClick="num"
-                    android:text="1"
-                    android:textSize="32sp"
-                    />
+                    android:scaleType="fitXY"
+                    android:src="@drawable/btn_1" />
 
-                <Button
+                <ImageButton
                     android:id="@+id/btn_num2_login"
-                    android:layout_width="128dp"
-                    android:layout_height="80dp"
+                    android:layout_width="91.5dp"
+                    android:layout_height="91.5dp"
+                    android:layout_marginRight="17.5dp"
+                    android:adjustViewBounds="true"
+                    android:background="#00000000"
                     android:onClick="num"
-                    android:text="2"
-                    android:textSize="32sp"
-                    />
+                    android:scaleType="fitXY"
+                    android:src="@drawable/btn_2" />
 
-                <Button
+                <ImageButton
                     android:id="@+id/btn_num3_login"
-                    android:layout_width="128dp"
-                    android:layout_height="80dp"
+                    android:layout_width="91.5dp"
+                    android:layout_height="91.5dp"
+                    android:layout_marginRight="114dp"
+                    android:adjustViewBounds="true"
+                    android:background="#00000000"
                     android:onClick="num"
-                    android:text="3"
-                    android:textSize="32sp"
-                    />
+                    android:scaleType="fitXY"
+                    android:src="@drawable/btn_3" />
             </LinearLayout>
             <!-- 전화번호 첫번째 줄 끝-->
 
@@ -141,34 +111,44 @@
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_gravity="center"
                 android:orientation="horizontal">
 
-                <Button
+                <ImageButton
                     android:id="@+id/btn_num4_login"
-                    android:layout_width="128dp"
-                    android:layout_height="80dp"
+                    android:layout_width="91.5dp"
+                    android:layout_height="91.5dp"
+                    android:layout_marginRight="17.5dp"
+                    android:layout_marginTop="17.5dp"
+                    android:adjustViewBounds="true"
+                    android:background="#00000000"
                     android:onClick="num"
-                    android:text="4"
-                    android:textSize="32sp"
-                    />
+                    android:scaleType="fitXY"
+                    android:src="@drawable/btn_4" />
 
-                <Button
+                <ImageButton
                     android:id="@+id/btn_num5_login"
-                    android:layout_width="128dp"
-                    android:layout_height="80dp"
+                    android:layout_width="91.5dp"
+                    android:layout_height="91.5dp"
+                    android:layout_marginRight="17.5dp"
+                    android:layout_marginTop="17.5dp"
+                    android:adjustViewBounds="true"
+                    android:background="#00000000"
                     android:onClick="num"
-                    android:text="5"
-                    android:textSize="32sp"
-                    />
+                    android:scaleType="fitXY"
+                    android:src="@drawable/btn_5" />
 
-                <Button
+                <ImageButton
                     android:id="@+id/btn_num6_login"
-                    android:layout_width="128dp"
-                    android:layout_height="80dp"
+                    android:layout_width="91.5dp"
+                    android:layout_height="91.5dp"
+                    android:layout_marginRight="114dp"
+                    android:layout_marginTop="17.5dp"
+                    android:adjustViewBounds="true"
+                    android:background="#00000000"
                     android:onClick="num"
-                    android:text="6"
-                    android:textSize="32sp"
-                    />
+                    android:scaleType="fitXY"
+                    android:src="@drawable/btn_6" />
             </LinearLayout>
             <!-- 전화번호 두번째 줄 끝-->
 
@@ -176,36 +156,44 @@
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal"
-                >
+                android:layout_gravity="center"
+                android:orientation="horizontal">
 
-                <Button
+                <ImageButton
                     android:id="@+id/btn_num7_login"
-                    android:layout_width="128dp"
-                    android:layout_height="80dp"
+                    android:layout_width="91.5dp"
+                    android:layout_height="91.5dp"
+                    android:layout_marginRight="17.5dp"
+                    android:layout_marginTop="17.5dp"
+                    android:adjustViewBounds="true"
+                    android:background="#00000000"
                     android:onClick="num"
-                    android:text="7"
-                    android:textSize="32sp"
-                    />
+                    android:scaleType="fitXY"
+                    android:src="@drawable/btn_7" />
 
-                <Button
+                <ImageButton
                     android:id="@+id/btn_num8_login"
-                    android:layout_width="128dp"
-                    android:layout_height="80dp"
+                    android:layout_width="91.5dp"
+                    android:layout_height="91.5dp"
+                    android:layout_marginRight="17.5dp"
+                    android:layout_marginTop="17.5dp"
+                    android:adjustViewBounds="true"
+                    android:background="#00000000"
                     android:onClick="num"
-                    android:text="8"
-                    android:textSize="32sp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/btn_8" />
 
-                    />
-
-                <Button
+                <ImageButton
                     android:id="@+id/btn_num9_login"
-                    android:layout_width="128dp"
-                    android:layout_height="80dp"
+                    android:layout_width="91.5dp"
+                    android:layout_height="91.5dp"
+                    android:layout_marginRight="114dp"
+                    android:layout_marginTop="17.5dp"
+                    android:adjustViewBounds="true"
+                    android:background="#00000000"
                     android:onClick="num"
-                    android:text="9"
-                    android:textSize="32sp"
-                    />
+                    android:scaleType="fitXY"
+                    android:src="@drawable/btn_9" />
             </LinearLayout>
             <!-- 전화번호 세번째 줄 끝-->
 
@@ -213,38 +201,60 @@
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_gravity="center"
                 android:orientation="horizontal">
 
-                <Button
-                    android:id="@+id/btn_DEL_login"
-                    android:layout_width="128dp"
-                    android:layout_height="80dp"
+                <ImageButton
+                    android:id="@+id/btn_Clear_login"
+                    android:layout_width="91.5dp"
+                    android:layout_height="91.5dp"
+                    android:layout_marginRight="17.5dp"
+                    android:layout_marginTop="17.5dp"
+                    android:adjustViewBounds="true"
+                    android:background="#00000000"
                     android:onClick="num"
-                    android:text="지우기"
-                    android:textSize="28sp"
-                    />
+                    android:scaleType="fitXY"
+                    android:src="@drawable/btn_clear" />
 
-                <Button
+                <ImageButton
                     android:id="@+id/btn_num0_login"
-                    android:layout_width="128dp"
-                    android:layout_height="80dp"
+                    android:layout_width="91.5dp"
+                    android:layout_height="91.5dp"
+                    android:layout_marginRight="17.5dp"
+                    android:layout_marginTop="17.5dp"
+                    android:adjustViewBounds="true"
+                    android:background="#00000000"
                     android:onClick="num"
-                    android:text="0"
-                    android:textSize="32sp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/btn_0"
+
                     />
 
-
-                <Button
-                    android:id="@+id/btn_check_login"
-                    android:layout_width="128dp"
-                    android:layout_height="80dp"
+                <ImageButton
+                    android:id="@+id/btn_DEL_login"
+                    android:layout_width="91.5dp"
+                    android:layout_height="91.5dp"
+                    android:layout_marginRight="114dp"
+                    android:layout_marginTop="17.5dp"
+                    android:adjustViewBounds="true"
+                    android:background="#00000000"
                     android:onClick="num"
-                    android:text="확인"
-                    android:textSize="28sp"
-                    />
+                    android:scaleType="fitXY"
+                    android:src="@drawable/btn_del" />
 
             </LinearLayout>
+
+            <ImageButton
+                android:id="@+id/btn_check_login"
+                android:layout_width="308.5dp"
+                android:layout_height="54dp"
+                android:layout_marginRight="114dp"
+                android:layout_marginTop="33dp"
+                android:adjustViewBounds="true"
+                android:background="#00000000"
+                android:onClick="num"
+                android:scaleType="fitXY"
+                android:src="@drawable/btn_check" />
         </LinearLayout>
     </LinearLayout>
-
 </LinearLayout>

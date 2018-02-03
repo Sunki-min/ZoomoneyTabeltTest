@@ -1,32 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.hardcopy.btchat.StartActivity"
-    android:background="@color/bg">
+    >
 
-    <ViewFlipper
-        android:id="@+id/main_photo"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        >
+    <ImageView
+        android:id="@+id/backGround"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:src="@drawable/bg_tablet_1"
 
-        <ImageView
-            android:id="@+id/cafe"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:src="@drawable/cafe"
-            />
+        />
 
-        <ImageView
-            android:id="@+id/puzzles"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:src="@drawable/puzzles"
-            />
+    <TextView
+        android:id="@+id/Str_money"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif"
+        android:text="'동전도 돈이다'"
+        android:textSize="26sp"
+        android:layout_marginTop="24dp"
+        android:textColor="#f4f4f4"
+        android:layout_alignBottom="@+id/backGround"
+        android:layout_alignLeft="@id/backGround"
+        android:layout_alignRight="@id/backGround"
+        android:layout_alignTop="@id/backGround"
+        android:gravity="center"
+        />
 
-
-    </ViewFlipper>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:text="ZOOMONEY"
+        android:textSize="39.5sp"
+        android:textColor="@color/orange4"
+        android:layout_alignBottom="@+id/backGround"
+        android:layout_alignLeft="@id/backGround"
+        android:layout_alignRight="@id/backGround"
+        android:layout_alignTop="@id/backGround"
+        android:gravity="center"/>
 </RelativeLayout>

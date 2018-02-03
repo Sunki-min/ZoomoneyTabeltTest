@@ -25,7 +25,7 @@ public class HttpReqManager{
 
     public HttpReqManager() {
         mRetrofit = new Retrofit.Builder()
-                .baseUrl("http://ubuntu@ec2-52-78-169-204.ap-northeast-2.compute.amazonaws.com:8888/")
+                .baseUrl("http://169.56.95.162/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 

@@ -65,8 +65,7 @@
             android:name="com.hardcopy.btchat.LoginActivity"
             android:screenOrientation="landscape"
             android:theme="@style/Theme.AppCompat"
-            android:windowSoftInputMode="stateHidden" >
-        </activity>
+            android:windowSoftInputMode="stateHidden" />
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"

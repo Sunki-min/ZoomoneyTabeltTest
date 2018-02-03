@@ -11,7 +11,6 @@
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.INTERNET" />
-
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -27,11 +26,12 @@
         <activity
             android:name=".MainActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
-            android:label="ZooMoney"
             android:icon="@drawable/zoomoney_icon"
+            android:label="ZooMoney"
             android:launchMode="singleTask">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
@@ -52,21 +52,18 @@
             android:theme="@android:style/Theme.Holo.NoActionBar" />
         <activity
             android:name=".AccountActivity"
-            android:theme="@style/Theme.AppCompat.NoActionBar"
             android:screenOrientation="landscape"
-            android:windowSoftInputMode="stateHidden"/>
-
-        <activity android:name=".StartActivity"
             android:theme="@style/Theme.AppCompat.NoActionBar"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".StartActivity"
             android:screenOrientation="landscape"
-            />
-
-        <activity android:name=".LoginActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".LoginActivity"
+            android:screenOrientation="landscape"
             android:theme="@style/Theme.AppCompat"
-            android:screenOrientation="landscape"
-            android:windowSoftInputMode="stateHidden"
-            >
-        </activity>
+            android:windowSoftInputMode="stateHidden" />
     </application>
 
 </manifest>

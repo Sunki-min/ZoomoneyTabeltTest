@@ -1,19 +1,3 @@
-/*
- * Copyright (C) 2014 Bluetooth Connection Template
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *      http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
-
 package com.hardcopy.btchat.bluetooth;
 
 import android.bluetooth.BluetoothAdapter;
@@ -34,8 +18,12 @@ import java.util.Timer;
 import java.util.TimerTask;
 import java.util.UUID;
 
+/**
+ * Created by sunki on 2018-01-23.
+ */
+
 public class BluetoothManager {
-	
+
     // Debugging
     private static final String TAG = "BluetoothManager";
 
@@ -44,17 +32,17 @@ public class BluetoothManager {
     public static final int STATE_LISTEN = 1;     // now listening for incoming connections
     public static final int STATE_CONNECTING = 2; // now initiating an outgoing connection
     public static final int STATE_CONNECTED = 3;  // now connected to a remote device
-    
+
     // Message types sent from the BluetoothManager to Handler
     public static final int MESSAGE_STATE_CHANGE = 1;
     public static final int MESSAGE_READ = 2;
 
     public static final int MESSAGE_DEVICE_NAME = 4;
     public static final int MESSAGE_TOAST = 5;
-    
-    // 
-	public static final String SERVICE_HANDLER_MSG_KEY_DEVICE_NAME = "device_name";
-	public static final String SERVICE_HANDLER_MSG_KEY_DEVICE_ADDRESS = "device_address";
+
+    //
+    public static final String SERVICE_HANDLER_MSG_KEY_DEVICE_NAME = "device_name";
+    public static final String SERVICE_HANDLER_MSG_KEY_DEVICE_ADDRESS = "device_address";
 
     private static final String NAME = "BluetoothManager";
     private static final UUID MY_UUID = UUID.fromString("00001101-0000-1000-8000-00805F9B34FB");
@@ -68,11 +56,11 @@ public class BluetoothManager {
     private int mState;
 
     private static final long RECONNECT_DELAY_MAX = 60*60*1000;
-    
+
     private long mReconnectDelay = 15*1000;
     private Timer mConnectTimer = null;
     private boolean mIsServiceStopped = false;
-    
+
 
     public BluetoothManager(Context context, Handler handler) {
         mAdapter = BluetoothAdapter.getDefaultAdapter();
@@ -84,9 +72,9 @@ public class BluetoothManager {
     private synchronized void setState(int state) {
         Log.d(TAG, "setState() " + mState + " -> " + state);
         mState = state;
-        
+
         if(mState == STATE_CONNECTED)
-        	cancelRetryConnect();
+            cancelRetryConnect();
 
 
         mHandler.obtainMessage(MESSAGE_STATE_CHANGE, state, -1).sendToTarget();
@@ -115,9 +103,9 @@ public class BluetoothManager {
 
     public synchronized void connect(BluetoothDevice device) {
         Log.d(TAG, "Connecting to: " + device);
-        
+
         if (mState == STATE_CONNECTED)
-        	return;
+            return;
 
         if (mState == STATE_CONNECTING) {
             if (mConnectThread != null) {mConnectThread.cancel(); mConnectThread = null;}
@@ -130,7 +118,7 @@ public class BluetoothManager {
         setState(STATE_CONNECTING);
     }
     public synchronized void connected(BluetoothSocket socket, BluetoothDevice device) {
-    	Log.d(TAG, "connected");
+        Log.d(TAG, "connected");
 
         // Cancel the thread that completed the connection
         if (mConnectThread != null) {mConnectThread.cancel(); mConnectThread = null;}
@@ -162,14 +150,14 @@ public class BluetoothManager {
         if (mConnectedThread != null) {mConnectedThread.cancel(); mConnectedThread = null;}
         if (mAcceptThread != null) {mAcceptThread.cancel(); mAcceptThread = null;}
         setState(STATE_NONE);
-        
+
         mIsServiceStopped = true;
         cancelRetryConnect();
     }
 
 
     private void connectionFailed() {
-    	Log.d(TAG, "BluetoothManager :: connectionFailed()");
+        Log.d(TAG, "BluetoothManager :: connectionFailed()");
         setState(STATE_LISTEN);
 
 
@@ -178,42 +166,42 @@ public class BluetoothManager {
 
 
     private void connectionLost() {
-    	Log.d(TAG, "BluetoothManager :: connectionLost()");
+        Log.d(TAG, "BluetoothManager :: connectionLost()");
         setState(STATE_LISTEN);
 
         reserveRetryConnect();
     }
 
     private void reserveRetryConnect() {
-    	if(mIsServiceStopped)
-    		return;
-    	
+        if(mIsServiceStopped)
+            return;
+
         mReconnectDelay = mReconnectDelay * 2;
         if(mReconnectDelay > RECONNECT_DELAY_MAX)
-        	mReconnectDelay = RECONNECT_DELAY_MAX;
-        
-		if(mConnectTimer != null) {
-			try {
-				mConnectTimer.cancel();
-			} catch (IllegalStateException e) {
-				e.printStackTrace();
-			}
-		}
-		mConnectTimer = new Timer();
-		mConnectTimer.schedule(new ConnectTimerTask(), mReconnectDelay);
+            mReconnectDelay = RECONNECT_DELAY_MAX;
+
+        if(mConnectTimer != null) {
+            try {
+                mConnectTimer.cancel();
+            } catch (IllegalStateException e) {
+                e.printStackTrace();
+            }
+        }
+        mConnectTimer = new Timer();
+        mConnectTimer.schedule(new ConnectTimerTask(), mReconnectDelay);
     }
-    
+
     private void cancelRetryConnect() {
-    	if(mConnectTimer != null) {
-			try {
-				mConnectTimer.cancel();
-				mConnectTimer.purge();
-			} catch (IllegalStateException e) {
-				e.printStackTrace();
-			}
-			mConnectTimer = null;
-			mReconnectDelay = 15*1000;
-    	}
+        if(mConnectTimer != null) {
+            try {
+                mConnectTimer.cancel();
+                mConnectTimer.purge();
+            } catch (IllegalStateException e) {
+                e.printStackTrace();
+            }
+            mConnectTimer = null;
+            mReconnectDelay = 15*1000;
+        }
     }
 
     private class AcceptThread extends Thread {
@@ -239,8 +227,8 @@ public class BluetoothManager {
             while (mState != STATE_CONNECTED) {
                 try {
 
-                	if(mmServerSocket != null)
-                		socket = mmServerSocket.accept();
+                    if(mmServerSocket != null)
+                        socket = mmServerSocket.accept();
                 } catch (IOException e) {
                     Log.e(TAG, "accept() failed", e);
                     break;
@@ -250,20 +238,20 @@ public class BluetoothManager {
                 if (socket != null) {
                     synchronized (BluetoothManager.this) {
                         switch (mState) {
-                        case STATE_LISTEN:
-                        case STATE_CONNECTING:
-                            // Situation normal. Start the connected thread.
-                            connected(socket, socket.getRemoteDevice());
-                            break;
-                        case STATE_NONE:
-                        case STATE_CONNECTED:
-                            // Either not ready or already connected. Terminate new socket.
-                            try {
-                                socket.close();
-                            } catch (IOException e) {
-                                Log.e(TAG, "Could not close unwanted socket", e);
-                            }
-                            break;
+                            case STATE_LISTEN:
+                            case STATE_CONNECTING:
+                                // Situation normal. Start the connected thread.
+                                connected(socket, socket.getRemoteDevice());
+                                break;
+                            case STATE_NONE:
+                            case STATE_CONNECTED:
+                                // Either not ready or already connected. Terminate new socket.
+                                try {
+                                    socket.close();
+                                } catch (IOException e) {
+                                    Log.e(TAG, "Could not close unwanted socket", e);
+                                }
+                                break;
                         }
                     }
                 }
@@ -274,8 +262,8 @@ public class BluetoothManager {
         public void cancel() {
             Log.d(TAG, "cancel " + this);
             try {
-            	if(mmServerSocket != null)
-            		mmServerSocket.close();
+                if(mmServerSocket != null)
+                    mmServerSocket.close();
             } catch (IOException e) {
                 Log.e(TAG, "close() of server failed" + e.toString());
             }
@@ -396,39 +384,38 @@ public class BluetoothManager {
                 Log.e(TAG, "close() of connect socket failed");
             }
         }
-        
-    }	// End of class ConnectedThread
-    
 
-	private class ConnectTimerTask extends TimerTask {
-		public ConnectTimerTask() {}
-		
-		public void run() {
-	    	if(mIsServiceStopped)
-	    		return;
-			
-			mHandler.post(new Runnable() {
-				public void run() {
-			    	if(getState() == STATE_CONNECTED || getState() == STATE_CONNECTING)
-			    		return;
-			    	
-			    	Log.d(TAG, "ConnectTimerTask :: Retry connect()");
-			    	
-					ConnectionInfo cInfo = ConnectionInfo.getInstance(null);
-					if(cInfo != null) {
-						String addrs = cInfo.getDeviceAddress();
-						BluetoothAdapter ba = BluetoothAdapter.getDefaultAdapter();
-						if(ba != null && addrs != null) {
-							BluetoothDevice device = ba.getRemoteDevice(addrs);
-							
-							if(device != null) {
-								connect(device);
-							}
-						}
-					}
-				}	// End of run()
-			});
-		}
-	}
-    
+    }	// End of class ConnectedThread
+
+
+    private class ConnectTimerTask extends TimerTask {
+        public ConnectTimerTask() {}
+
+        public void run() {
+            if(mIsServiceStopped)
+                return;
+
+            mHandler.post(new Runnable() {
+                public void run() {
+                    if(getState() == STATE_CONNECTED || getState() == STATE_CONNECTING)
+                        return;
+
+                    Log.d(TAG, "ConnectTimerTask :: Retry connect()");
+
+                    ConnectionInfo cInfo = ConnectionInfo.getInstance(null);
+                    if(cInfo != null) {
+                        String addrs = cInfo.getDeviceAddress();
+                        BluetoothAdapter ba = BluetoothAdapter.getDefaultAdapter();
+                        if(ba != null && addrs != null) {
+                            BluetoothDevice device = ba.getRemoteDevice(addrs);
+
+                            if(device != null) {
+                                connect(device);
+                            }
+                        }
+                    }
+                }	// End of run()
+            });
+        }
+    }
 }

@@ -8,23 +8,15 @@ import android.text.InputFilter;
 import android.text.TextUtils;
 import android.text.TextWatcher;
 import android.view.View;
-import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageButton;
 
 public class LoginActivity extends Activity {
 
-    private Button btn_0;
-    private Button btn_1;
-    private Button btn_2;
-    private Button btn_3;
-    private Button btn_4;
-    private Button btn_5;
-    private Button btn_6;
-    private Button btn_7;
-    private Button btn_8;
-    private Button btn_9;
-    private Button btn_CHECK;
+    private EditText ed_number_login;
+    private String string;
 
+    //    private EditText ed_number_login_two;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -35,14 +27,14 @@ public class LoginActivity extends Activity {
 
         //숫자 입력 제한
         InputFilter[] inputFilters = new InputFilter[]{
-                new InputFilter.LengthFilter(10)
+                new InputFilter.LengthFilter(9)
 
         };
 
 //        // 자동 하이픈 출력
 //        ed_number_login.addTextChangedListener(new PhoneNumberFormattingTextWatcher());
 
-        Button btn_CHECK = (Button) findViewById(R.id.btn_check_login);
+        ImageButton btn_CHECK = (ImageButton) findViewById(R.id.btn_check_login);
         btn_CHECK.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -63,7 +55,7 @@ public class LoginActivity extends Activity {
 
         // 지우기 버튼
 
-        Button btn_DEL = (Button) findViewById(R.id.btn_DEL_login);
+        ImageButton btn_DEL = (ImageButton) findViewById(R.id.btn_DEL_login);
         if (btn_DEL != null) {
             btn_DEL.setOnClickListener(new View.OnClickListener() {
                 @Override
@@ -92,7 +84,7 @@ public class LoginActivity extends Activity {
                 }
 
                 String temp = s.toString().replace("-", "");
-                //하이픈을 빼고 문자가 4개 이하일 경우
+                //하이픈을 제거한 문자가 4개 이하일 경우
                 if (temp.length() <= 4) {
                     return;
                 }
